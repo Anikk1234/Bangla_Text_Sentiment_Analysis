@@ -2,7 +2,7 @@
 
 This project is a desktop application built with Python and PyQt5 that performs sentiment analysis on Bangla (Bengali) text. It uses a pre-trained machine learning model to classify text as "Positive" or "Negative" in real-time.
 
-![Screenshot of the application](C:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot 2025-09-04 161512.png)  
+![Screenshot of the application](https://github.com/Anikk1234/Bangla_Text_Sentiment_Analysis/blob/main/Bangla%20Text%20Sentiment%20Analysis%20Project/Screenshot%202025-09-04%20161512.png)  
 
 ## Features
 
